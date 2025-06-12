@@ -1,5 +1,5 @@
 # Sistema Bancário
-##Problemas a serem resolvidos:
+*Problemas a serem resolvidos:*
 - Gerenciamento de inconsistências no saldo.
 - Correção de erros em transações.
 - Detecção de fraudes bancárias.
